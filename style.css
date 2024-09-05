@@ -116,7 +116,7 @@
       min-height: 100vh;
       margin-top: -100px;
       padding: 240px 0;
-      background-image: url(./img/welcome.jpeg);
+      background-image: url(./img/welcome-vmake.png);
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
@@ -162,11 +162,13 @@
       background: rgb(49, 47, 48);
       border-radius: 10px;
       overflow: hidden;
-      text-align: center
-   }
-   
+      text-align: center;
+      transition: 0.5s;
+         }
+
    .food-list__card:hover {
-      opacity: 0.8   ;
+      transform: scale(1.2);
+      opacity: 0.8;
    }
 
    .food-list__img {
