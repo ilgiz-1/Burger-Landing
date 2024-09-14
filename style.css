@@ -402,3 +402,82 @@ h6 {
 .btn {
 
 }
+
+/* FOOTER */
+
+.footer  {
+  
+}
+
+.footer__title {
+  font-size: 16px;
+ font-weight: 500;
+}
+
+.footer {
+ 
+}
+
+.footer .container {
+  display: flex;
+
+}
+
+.footer__contacts {
+  font-size: 12px;
+  font-weight: 400;  
+
+}
+
+.footer__logo {
+
+}
+
+.footer__link {
+
+}
+
+.footer__link-mail {
+
+}
+
+.footer__link-web {
+
+}
+
+.footer__nav {
+
+}
+
+.footer__list {
+
+}
+
+.footer_list-title {
+  
+  }
+
+}
+
+
+.footer__inner-list {
+
+}
+
+.footer__list-item {
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.footer__socials {
+
+}
+
+
+.footer__social-icons {
+
+}
+
+.footer__social-icon {
+
+}
