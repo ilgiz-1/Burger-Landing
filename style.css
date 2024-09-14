@@ -338,7 +338,7 @@ h6 {
 /* feedback */
 
 .feedback {
-  padding-bottom: 200px;  
+  padding-bottom: 200px;
 }
 
 .feedback .container {
@@ -353,14 +353,15 @@ h6 {
 
 .feedback__text {
   text-align: center;
-  width: 370px; 
-  margin: 0; 
+  width: 370px;
+  margin: 0;
+  
   /* display: flex;
   flex-direction: column; */
 }
 
 .feedback__text::before {
-  content: url(./img/icon/quote.svg)
+  content: url(./img/icon/quote.svg);
 }
 
 .feedback__decs {
@@ -390,78 +391,60 @@ h6 {
 
 .download .container {
   display: flex;
-  justify-content: space-around ;
+  justify-content: space-around;
 }
 
 .dowload__title {
   font-size: 40px;
   font-weight: 500;
-
-
-
-.btn {
-
 }
-
-/* FOOTER */
-
-.footer  {
-  
-}
-
-.footer__title {
-  font-size: 16px;
- font-weight: 500;
-}
-
-.footer {
- 
-}
-
-.footer .container {
-  display: flex;
-
-}
-
-.footer__contacts {
-  font-size: 12px;
-  font-weight: 400;  
-
-}
-
-.footer__logo {
-
-}
-
-.footer__link {
-
-}
-
-.footer__link-mail {
-
-}
-
-.footer__link-web {
-
-}
-
-.footer__nav {
-
-}
-
-.footer__list {
-
-}
-
-.footer_list-title {
-  
+  .btn {
   }
 
-}
+  /* FOOTER */
 
+  .footer {
+  }
+
+  .footer__title {
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+  .footer {
+  }
+
+  .footer .container {
+    display: flex;
+  }
+
+  .footer__contacts {
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+  .footer__logo {
+  }
+
+  .footer__link {
+  }
+
+  .footer__link-mail {
+  }
+
+  .footer__link-web {
+  }
+
+  .footer__nav {
+  }
+
+  .footer__list {
+  }
+
+  .footer_list-title {
+  }
 
 .footer__inner-list {
-
 }
 
 .footer__list-item {
@@ -470,14 +453,10 @@ h6 {
 }
 
 .footer__socials {
-
 }
 
-
 .footer__social-icons {
-
 }
 
 .footer__social-icon {
-
 }
