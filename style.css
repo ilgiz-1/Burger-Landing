@@ -487,6 +487,7 @@ h6 {
   display: flex;
   align-items: center;
   gap: 7px;
+  padding-top: 30px;
 }
 
 .footer__contacts-icon-mail {
